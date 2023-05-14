@@ -5,8 +5,8 @@ Unfortunately backend is yet to be done.
 **Created in Submission for Round 2 of Xenon Stack**.
 
 # Theme 
-##  CODE WITH ADITYA
+##  CODE WITH PARAG
 - Created a Web-Page for students to gain knowledge from the courses this site provides.
 
 # Thanks Would Love to hear Suggestion 
-- Aditya Mishra : adimishra0098@gmail.com
+- Aditya Mishra : official.paragp91199@gmail.com
