@@ -9,4 +9,4 @@ Unfortunately backend is yet to be done.
 - Created a Web-Page for students to gain knowledge from the courses this site provides.
 
 # Thanks Would Love to hear Suggestion 
-- Aditya Mishra : official.paragp91199@gmail.com
+- Parag Patil : official.paragp91199@gmail.com
